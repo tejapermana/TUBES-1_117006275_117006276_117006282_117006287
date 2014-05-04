@@ -19,7 +19,7 @@
 	   <ul>
 		<li><a href="https://github.com/HidrianOmaSuharman">Hidrian Oma Suharman (117006282) </a></li> 
 		<li><a href="https://github.com/RifkiWIrawan">M. Rifki Wirawan (117006287)</a></li>
-		<li><a href="https://github.com/tejapermana">Teja Permana (117006275) </a></li> 
+		<li><a href="https://github.com/TejaPermana">Teja Permana (117006275) </a></li> 
 		<li><a href="https://github.com/rensasuryaanggara">Rensa Surya Anggara (117006276)</a></li>
 		<a href="https://github.com/HidrianOmaSuharman/TUBES-1_117006275_117006276_117006282_117006287/network"><h3>Network Graph</h3></a>	
 	   </ul>
